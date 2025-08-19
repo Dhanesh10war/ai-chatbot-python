@@ -50,7 +50,7 @@ It creates a chat session where the model remembers context across turns.
    You: Tell me a fun fact.
    Gemini: Did you know octopuses have three hearts?
 
-6. **📂 Repository Structure**
+7. **📂 Repository Structure**
    ai-chatbot-python/
    ├── chat_with_gemini.py   # Main chatbot script
    ├── requirements.txt      # Python dependencies
@@ -58,6 +58,10 @@ It creates a chat session where the model remembers context across turns.
    ├── LICENSE               # Open-source license
    └── README.md             # Project documentation
 
+8. **Install dependencies**
+   Once the file is in your repo, users can just run:
+   ```bash
+    pip install -r requirements.txt
 
-7. **📜 License**
+9. **📜 License**
    This project is licensed under the MIT License.
